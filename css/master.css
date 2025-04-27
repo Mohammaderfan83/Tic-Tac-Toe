@@ -47,7 +47,7 @@
 .submit-btn:active,
 .submit-btn:focus {
   outline: none;
-  border: 2px solid #E15E32;
+  border: 2px solid #e0673e;
 }
 
 .submit-btn:hover {
